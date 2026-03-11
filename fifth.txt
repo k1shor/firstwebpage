@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-fifth file
-=======
-FIFTH FILE
->>>>>>> 5ac66611440c890dfdff784b1dcbde2bb3ab44ee
